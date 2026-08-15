@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-8scx4e.koi888.cfd/sitemap.xml
